@@ -148,6 +148,10 @@ ol {
     padding: 0 6rem;
 }
 
+.style-guide{
+    width: 80%;
+}
+
 @media screen and (max-width:1000px) {
 
     .horizontal-line {
