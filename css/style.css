@@ -176,6 +176,9 @@ nav img {
     display: flex;
     width: 100%;
     gap: 6rem;
+    /* background: url(/images/APC_0043.JPG); */
+    /* background-size: cover; */
+    /* background-position: center; */
 }
 
 .mecol1 {
@@ -186,7 +189,8 @@ nav img {
 }
 
 .mecol1 h1,
-.experience h1 {
+.experience h1, 
+.hobbies>h1 {
     font-size: 1rem;
     font-weight: 200;
 }
